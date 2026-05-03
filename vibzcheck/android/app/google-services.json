@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182891626906",
+    "project_id": "mad-project-02",
+    "storage_bucket": "mad-project-02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182891626906:android:ead7b75767feca9a6b3a23",
+        "android_client_info": {
+          "package_name": "com.example.vibzcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOpSTEQNfDYCgEG8DaHJUcUXPV3T-8f3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
